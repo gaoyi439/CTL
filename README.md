@@ -1,6 +1,6 @@
  # CTL
 
- This code gives the implementation  of the paper "Multi-Label Learning with Multiple Complementary Labels". The appendix is shown in the .pdf file.
+ This code gives the implementation  of the paper "Multi-Label Learning with Multiple Complementary Labels". The paper and appendix can be found at [here](https://gaoyi439.github.io/papers/TPAMI2024_without_acknowledgement.pdf).
 
  Requirements
 - Python >=3.6
