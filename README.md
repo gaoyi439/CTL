@@ -23,7 +23,7 @@ coverage of test data, ranking loss of test data and average precision of test d
 
 ---
 ## citation
-@ARTICLE{11016060,
+<code data-enlighter-language="raw" class="EnlighterJSRAW"> @ARTICLE{11016060,
   author={Gao, Yi and Zhu, Jing-Yi and Xu, Miao and Zhang, Min-Ling},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Multi-Label Learning With Multiple Complementary Labels}, 
@@ -31,4 +31,6 @@ coverage of test data, ranking loss of test data and average precision of test d
   volume={47},
   number={9},
   pages={8013-8024}
-}
+}</code>
+
+
