@@ -20,3 +20,15 @@ coverage of test data, ranking loss of test data and average precision of test d
 ## Specify the dataset argument:
 - scene: scene dataset
 - ml_tmc2007: tmc2007 dataset
+
+---
+## citation
+@ARTICLE{11016060,
+  author={Gao, Yi and Zhu, Jing-Yi and Xu, Miao and Zhang, Min-Ling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Multi-Label Learning With Multiple Complementary Labels}, 
+  year={2025},
+  volume={47},
+  number={9},
+  pages={8013-8024}
+}
